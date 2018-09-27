@@ -1,0 +1,49 @@
+[{
+  "id": 1,
+  "name": "Ajay",
+  "joinDate": "2018-01-18T18:30:00.000Z",
+  "contact": "9818805393",
+  "details": "Enthusiastic and young... PowerHouse of team..."
+},
+{
+  "id": 2,
+  "name": "Vijay",
+  "joinDate": "2002-01-18T18:30:00.000Z",
+  "contact": "9878584586",
+  "details": "Experienced and Expert in Java domain... With an innovative mind"
+},
+{
+  "id": 3,
+  "name": "Ramesh",
+  "joinDate": "2007-07-18T18:30:00.000Z",
+  "contact": "8958485879",
+  "details": "Competitive and irritating... because his questions are from out of this world"
+},
+{
+  "id": 4,
+  "name": "Suresh",
+  "joinDate": "2010-05-18T18:30:00.000Z",
+  "contact": "8987478570",
+  "details": "Brother of Ramesh... Issue is not with them but their DNA"
+},
+{
+  "id": 5,
+  "name": "Geeta",
+  "joinDate": "2003-03-18T18:30:00.000Z",
+  "contact": "5847581245",
+  "details": "A dull and sulky girl... somehow manages to get it done on time"
+},
+{
+  "id": 6,
+  "name": "Babita",
+  "joinDate": "2017-06-18T18:30:00.000Z",
+  "contact": "6848587845",
+  "details": "Cold, aloof and introvert... She breathes in code and exhales bugs"
+},
+{
+  "id": 7,
+  "name": "Mona",
+  "joinDate": "2011-07-18T18:30:00.000Z",
+  "contact": "7584125869",
+  "details": "Darling..."
+}]
